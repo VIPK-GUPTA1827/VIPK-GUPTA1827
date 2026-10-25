@@ -29,7 +29,7 @@ class VipinGupta:
 
     def current_focus(self):
         return [
-            "Building SkillSphere — Hyperlocal Freelance Marketplace",
+            "Building GigOra — Hyperlocal Milestone Freelance Marketplace",
             "Python automation & algorithmic trading systems",
             "Full Stack MERN applications"
         ]
