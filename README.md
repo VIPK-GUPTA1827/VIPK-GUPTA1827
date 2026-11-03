@@ -10,7 +10,7 @@ I started coding about 2 years ago with YouTube videos and lectures, and I also 
 
 🌐 Portfolio: [vipingupta-portfolio.netlify.app](https://vipingupta-portfolio.netlify.app/)
 💼 LinkedIn: [vipin-gupta-v2718](https://www.linkedin.com/in/vipin-gupta-v2718)
-📧 Email: dev.vipingupta@gmail.com
+📧 Email: vipingupta.dev@outlook.com
 🟢 Fiverr: [vipk_1827](https://fiverr.com/users/vipk_1827)
 
 ---
